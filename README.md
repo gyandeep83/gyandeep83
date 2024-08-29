@@ -1,4 +1,3 @@
-[![MasterHead](https://repository-images.githubusercontent.com/330349275/281486b8-097d-4fdb-a4a5-92fc485f920c)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Gyan deep</h1>
 <h3 align="center">I am a BCA student with a strong interest in programming and computer science. I am passionate about learning new technologies and applying them to real-world challenges.</h3>
 <img align=“right” alt=“coding” width=“400” src=https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif> 
